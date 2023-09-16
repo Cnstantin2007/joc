@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../000"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "svg.preview.background": "white",
+    "liveServer.settings.multiRootWorkspaceName": "joc"
+  }
+}
